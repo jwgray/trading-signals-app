@@ -70,7 +70,7 @@ export default function LandingPage() {
               <Zap className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-5xl font-bold text-white">Trading Command Center</h1>
+              <h1 className="text-5xl font-bold text-red-600">Trading Command Center</h1>
               <p className="text-blue-400 text-sm mt-1">AI-Powered Market Intelligence</p>
             </div>
           </div>
